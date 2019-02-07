@@ -10,7 +10,7 @@ EOF
 RUN
 
 NAME=MZ: corkami cdogs.exe - entrypoint
-BROKE=1
+BROKEN=1
 FILE=../bins/mz/cdogs.exe
 EXPECT=<<EOF
 0x3bc

@@ -1,5 +1,4 @@
 NAME=MZ: corkami cdogs.exe - open
-BROKEN=1
 FILE=../bins/mz/cdogs.exe
 ARGS=-A
 EXPECT=<<EOF
